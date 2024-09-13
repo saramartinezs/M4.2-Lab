@@ -1,4 +1,4 @@
-# Web Dev Starter Code
+# Module 4 Lab
 
 ## Overview
 
@@ -12,6 +12,8 @@ will be considered in violation of the Academic Honesty policy unless you truly
 created everything from scratch with no outside help. If you need to use a
 source that you cannot credit (e.g. a classmate's work), you must get explicit
 permission from your instructor.
+
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 A simple bulleted list below is sufficient. For example:
 
